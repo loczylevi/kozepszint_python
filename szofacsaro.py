@@ -68,3 +68,4 @@ else:
     print(f"Sajnos nem talált, a keresett szó a(z) '{veletlen}' lett volna.")
 
 
+#༼ つ ◕_◕ ༽つ   ༼ つ ◕_◕ ༽     ༼ つ ◕_◕ ༽つ        ༼ つ ◕_◕ ༽つ           ༼ つ ◕_◕ ༽つ
